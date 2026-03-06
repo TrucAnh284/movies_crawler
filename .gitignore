@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Dữ liệu cào được (Không nên push lên Git)
+database/
+*.json
+*.txt
+
+# Môi trường ảo
+venv/
+.env
